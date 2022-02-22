@@ -2,7 +2,9 @@
 
 # RGBLED用プログラム
 
-RGBLE:PL9823-F8_117個点灯用リポジトリ
+動画 : YouTube Shuichiのプログラム_9
+
+RGBLE : PL9823-F8_117個点灯用リポジトリ
 
 # Editor
 
@@ -12,12 +14,12 @@ Arduino IDE
 
 SW1
 模様 → 本日ノオススメ品サザエ
-SW2
-緑
-SW3
-白
-SW4
-花
-SW5
-赤点滅
+SW2    SW3    SW4    SW5
+ 緑     白    花    赤点滅
+
+
+
+
+
+
 
